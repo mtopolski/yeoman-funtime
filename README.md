@@ -7,6 +7,8 @@ version 0.11.1.
 
 Run `grunt` for building and `grunt serve` for preview.
 
+(npm install, bower install, use 'node web.js' to run without installing grunt)
+
 ## Testing
 
-Running `grunt test` will run the unit tests with karma.
+Running `grunt test` will run the unit tests with karma. All one unit tests.
